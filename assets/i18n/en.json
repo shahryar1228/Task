@@ -1,0 +1,30 @@
+{
+  "dashboard": {
+    "menu_one": "About the consultant",
+    "menu_one_title": "Add working hours",
+    "menu_two": "Records and honors",
+    "menu_two_title": "Records and honors",
+    "menu_three": "Our Team",
+    "menu_three_title": "Our Team"
+  },
+  "about_consultant": {
+    "saturday" : "Saturday",
+    "sunday" : "Sunday",
+    "monday" : "Monday",
+    "tuesday" : "Tuesday",
+    "wednesday" : "Wednesday",
+    "thursday" : "Thursday",
+    "friday" : "Friday",
+    "open" : "Open",
+    "close" : "Close",
+    "open24" : "Open For 24 Hour",
+    "save" : "Save",
+    "cancel" : "Cancel"
+  },
+  "records_and_honors": {
+    "add_history" : "Add History"
+  },
+  "our_team": {
+    "add_new_person" : "Add New Person"
+  }
+}

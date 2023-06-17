@@ -1,0 +1,30 @@
+{
+  "dashboard": {
+    "menu_one": "درباره مشاور",
+    "menu_one_title": "افزودن ساعت کاری",
+    "menu_two": "سوابق و افتخارات",
+    "menu_two_title": "سوابق و افتخارات",
+    "menu_three": "تیم ما",
+    "menu_three_title": "تیم ما"
+  },
+  "about_consultant": {
+    "saturday" : "شنبه",
+    "sunday" : "یکشنبه",
+    "monday" : "دوشنبه",
+    "tuesday" : "سه\u200Cشنبه",
+    "wednesday" : "چهار\u200Cشنبه",
+    "thursday" : "پنج\u200Cشنبه",
+    "friday" : "جمعه",
+    "open" : "باز است",
+    "close" : "بسته",
+    "open24" : "۲۴ ساعته باز است",
+    "save" : "ذخیره",
+    "cancel" : "انصراف"
+  },
+  "records_and_honors": {
+    "add_history" : "افزودن سابقه"
+  },
+  "our_team": {
+    "add_new_person" : "افزودن فرد جدید"
+  }
+}
